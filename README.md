@@ -18,11 +18,18 @@
 
 ```js
 const agilesh = {
+    education: "BCA Graduate",
+    currentStudy: "MCA in Generative AI",
     role: "Full Stack Developer",
     specialization: "MERN Stack",
     languages: ["JavaScript", "Python", "Java"],
-    currentFocus: "Building scalable web applications",
-    learning: ["React.js", "Backend Development", "System Design"],
+    currentFocus: [
+        "Full Stack Development",
+        "Generative AI",
+        "Backend Development",
+        "AI Concepts"
+    ],
+    passion: "Building scalable and intelligent web applications",
     funFact: "I love turning ideas into real-world projects 🚀"
 };
 ```
