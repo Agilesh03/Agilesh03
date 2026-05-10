@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Agilesh P
 
-### 💻 Aspiring Full Stack Developer | MERN Stack Enthusiast | Aspiring Software Developer
+### 💻 Aspiring Full Stack Developer | MERN Stack Enthusiast 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Modern+Web+Applications;Code.+Learn.+Build.+Improve." />
 
