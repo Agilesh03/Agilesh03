@@ -132,7 +132,7 @@ A stylish restaurant landing page with interactive frontend features.
 </a>
 
 <a href="mailto:agiagilesh49@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
