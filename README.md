@@ -123,7 +123,10 @@ A stylish restaurant landing page with interactive frontend features.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/
+agilesh3
+Vanity URL name
+">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
