@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Agilesh P
+# Hi 👋, I'm Agilesh 
 
 ### 💻 Aspiring Full Stack Developer | MERN Stack Enthusiast 
 
