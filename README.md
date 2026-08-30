@@ -1,13 +1,6 @@
 <div align="center">
 
-
-<h1 align="center">
-  <span style="color: #888888;">MY NAME IS </span>
-  <span style="color: #ffffff;">AGILESH</span>
-</h1> 
-
-
-# Hi 👋, I'm Agilesh p
+# Hi 👋, I'm Agilesh P
 
 ### 💻 Aspiring Full Stack Developer | MERN Stack Enthusiast 
 
