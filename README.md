@@ -77,33 +77,11 @@ A stylish restaurant landing page with interactive frontend features.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agilesh03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agilesh03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agilesh03&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Agilesh03&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
