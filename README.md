@@ -51,125 +51,147 @@ const agilesh = {
 
 </div>
 
+
 ---
 
 ## 🌟 Projects
 
 ### 🔥 CodeStreak — LeetCode Streak Tracker
 
-A browser extension that helps developers track their LeetCode problem-solving activity and maintain a consistent coding streak.
+A Chrome extension designed to help developers build consistent coding habits by tracking daily LeetCode activity and maintaining coding streaks.
 
 **🛠️ Tech Stack**
-- JavaScript
-- HTML
-- CSS
-- Chrome Extension APIs
+
+* JavaScript
+* HTML5
+* CSS3
+* Chrome Extension APIs
 
 **✨ Key Features**
-- 🔥 Tracks daily LeetCode activity
-- 📊 Displays coding streak information
-- ⚡ Lightweight browser extension
-- 🎨 Clean and simple user interface
-- 💻 Designed for consistent coding practice
 
-🔗 **Source Code:** [GitHub Repository](YOUR_CODESTREAK_REPOSITORY_LINK)
+* 🔥 Tracks daily coding activity
+* 📈 Maintains coding streaks
+* 💻 Supports consistent DSA practice
+* ⚡ Lightweight browser extension
+* 🎨 Simple and user-friendly interface
+* 🔄 Monitors coding progress
 
+🔗 **Source Code:** [GitHub Repository](https://github.com/Agilesh03/codestreak-extension)
 
 ---
 
-### 🤖 RAG Application — Retrieval-Augmented Generation
+### 🤖 RAG Document Chatbot
 
-An AI-powered Retrieval-Augmented Generation application that retrieves relevant information from a knowledge base and uses it to generate context-aware responses.
+An AI-powered document question-answering system using Retrieval-Augmented Generation (RAG). Users can upload documents and ask natural-language questions based on their content.
 
 **🛠️ Tech Stack**
-- Python
-- RAG
-- Large Language Models (LLMs)
-- Vector Database
-- Embeddings
-- DeepEval
+
+* Python
+* Flask
+* Sentence Transformers
+* FAISS
+* Llama 3.2
+* Ollama
+* RAG
 
 **✨ Key Features**
-- 📚 Retrieves relevant information from documents
-- 🔎 Semantic search using embeddings
-- 🤖 Generates context-aware AI responses
-- 🧠 Reduces irrelevant or unsupported responses
-- 📊 Evaluates RAG performance using DeepEval
-- 🔄 Combines retrieval and generation into a single pipeline
 
-**🎯 What I Implemented**
-- Document processing and knowledge-base creation
-- Text embedding and vector-based retrieval
-- Context retrieval for user queries
-- LLM-based response generation
-- RAG evaluation and testing
+* 📄 Document upload and processing
+* 📝 Text extraction and chunking
+* 🧠 Embedding generation
+* 🔎 Semantic similarity search using FAISS
+* 🤖 Context-aware answers using Llama 3.2
+* 💬 Natural-language document Q&A
+* 📊 RAG evaluation with DeepEval
 
-🔗 **Source Code:** [GitHub Repository](YOUR_RAG_REPOSITORY_LINK)
+**🏗️ RAG Pipeline**
 
+`Document → Text Extraction → Chunking → Embeddings → FAISS → Semantic Search → Context → LLM → Answer`
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Agilesh03/RAG-document-chatbot)
 
 ---
 
-### 🌍 Travel Website
+### 📄 ATS AI Resume Analyzer
 
-A modern responsive travel website designed and developed with a focus on clean UI, responsive layouts, and interactive user experiences.
+An AI-powered resume analysis application designed to evaluate resumes using ATS-oriented analysis and provide insights for improving job application readiness.
 
 **🛠️ Tech Stack**
-- HTML5
-- CSS3
-- JavaScript
+
+* Python
+* Flask
+* HTML5
+* CSS3
+* JavaScript
+* AI / NLP
 
 **✨ Key Features**
-- 🌍 Modern travel-focused UI
-- 📱 Fully responsive design
-- ⚡ Interactive JavaScript components
-- 🎨 Clean and reusable styling
-- 🧭 Interactive navigation
-- 💻 Optimized for desktop and mobile devices
 
-🔗 **Source Code:** [GitHub Repository](YOUR_TRAVEL_REPOSITORY_LINK)
-🔗 **Live Demo:** [View Website](YOUR_LIVE_DEMO_LINK)
+* 📄 Resume upload and analysis
+* 🎯 ATS-oriented resume scoring
+* 📊 Resume evaluation and insights
+* 🔐 User authentication
+* 📋 Structured resume analysis
+* 💡 Resume improvement suggestions
+* 🌐 Web-based interface
 
+**🎯 Purpose**
+
+Helps job seekers identify potential weaknesses in their resumes and improve their readiness for Applicant Tracking Systems.
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Agilesh03/ResumeAI)
 
 ---
 
-### 🍽️ Restaurant Website
+### 👁️ Face Detection & Recognition
 
-A modern and responsive restaurant website featuring an engaging landing page, interactive UI components, and a visually appealing restaurant-focused design.
+A computer vision project focused on detecting and recognizing faces from visual input using image-processing and facial recognition techniques.
 
 **🛠️ Tech Stack**
-- HTML5
-- CSS3
-- JavaScript
+
+* Python
+* OpenCV
+* Computer Vision
+* Face Recognition
 
 **✨ Key Features**
-- 🍽️ Modern restaurant UI
-- 📱 Responsive design
-- ⚡ Interactive JavaScript elements
-- 🎨 Modern visual layout
-- 🖱️ Smooth user interactions
-- 💻 Responsive across different screen sizes
 
-🔗 **Source Code:** [GitHub Repository](YOUR_RESTAURANT_REPOSITORY_LINK)
-🔗 **Live Demo:** [View Website](YOUR_LIVE_DEMO_LINK)
-# 🌐 Connect With Me
+* 👁️ Face detection
+* 🧑 Face recognition
+* 📷 Image and video processing
+* 🔍 Computer vision techniques
+* ⚡ Real-time facial analysis
 
-<div align="center">
-
-<a href= "https://www.linkedin.com/in/agilesh3" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="mailto:agiagilesh49@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+🔗 **Source Code:** [GitHub Repository](https://github.com/Agilesh03/face_detection_recognization)
 
 ---
+
+### 🍽️ Taste Corner Inn — Restaurant Website
+
+A responsive frontend restaurant website built to practice modern web design, layout development, styling, and interactive user experiences.
+
+**🛠️ Tech Stack**
+
+* HTML5
+* CSS3
+* JavaScript
+
+**✨ Key Features**
+
+* 🍽️ Restaurant-focused user interface
+* 📱 Responsive web design
+* 🎨 Clean and modern layout
+* ⚡ JavaScript-based interactivity
+* 🖥️ Desktop and mobile-friendly design
+* 🧩 Structured and reusable frontend components
+
+**🎯 Purpose**
+
+Built as a hands-on frontend development project to strengthen skills in responsive layouts, CSS styling, UI design, and JavaScript interactivity.
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/Agilesh03/taste_corner_inn)
+
+--------
 
 # 🎯 Current Goals
 
