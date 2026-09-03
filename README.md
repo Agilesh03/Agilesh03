@@ -53,40 +53,104 @@ const agilesh = {
 
 ---
 
-# 🌟 Projects
+## 🌟 Projects
 
-## 🌍 Travel Website
-A modern responsive travel website built using HTML, CSS, and JavaScript.
+### 🔥 CodeStreak — LeetCode Streak Tracker
 
-### Features
-- Beautiful UI Design
-- Responsive Layout
-- Interactive Sections
-- Smooth User Experience
+A browser extension that helps developers track their LeetCode problem-solving activity and maintain a consistent coding streak.
 
----
+**🛠️ Tech Stack**
+- JavaScript
+- HTML
+- CSS
+- Chrome Extension APIs
 
-## 🍽️ Restaurant Website
-A stylish restaurant landing page with interactive frontend features.
+**✨ Key Features**
+- 🔥 Tracks daily LeetCode activity
+- 📊 Displays coding streak information
+- ⚡ Lightweight browser extension
+- 🎨 Clean and simple user interface
+- 💻 Designed for consistent coding practice
 
-### Features
-- Dynamic UI
-- JavaScript Interactions
-- Responsive Design
-- Modern Layout
+🔗 **Source Code:** [GitHub Repository](YOUR_CODESTREAK_REPOSITORY_LINK)
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agilesh03&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
+### 🤖 RAG Application — Retrieval-Augmented Generation
+
+An AI-powered Retrieval-Augmented Generation application that retrieves relevant information from a knowledge base and uses it to generate context-aware responses.
+
+**🛠️ Tech Stack**
+- Python
+- RAG
+- Large Language Models (LLMs)
+- Vector Database
+- Embeddings
+- DeepEval
+
+**✨ Key Features**
+- 📚 Retrieves relevant information from documents
+- 🔎 Semantic search using embeddings
+- 🤖 Generates context-aware AI responses
+- 🧠 Reduces irrelevant or unsupported responses
+- 📊 Evaluates RAG performance using DeepEval
+- 🔄 Combines retrieval and generation into a single pipeline
+
+**🎯 What I Implemented**
+- Document processing and knowledge-base creation
+- Text embedding and vector-based retrieval
+- Context retrieval for user queries
+- LLM-based response generation
+- RAG evaluation and testing
+
+🔗 **Source Code:** [GitHub Repository](YOUR_RAG_REPOSITORY_LINK)
+
+
+---
+
+### 🌍 Travel Website
+
+A modern responsive travel website designed and developed with a focus on clean UI, responsive layouts, and interactive user experiences.
+
+**🛠️ Tech Stack**
+- HTML5
+- CSS3
+- JavaScript
+
+**✨ Key Features**
+- 🌍 Modern travel-focused UI
+- 📱 Fully responsive design
+- ⚡ Interactive JavaScript components
+- 🎨 Clean and reusable styling
+- 🧭 Interactive navigation
+- 💻 Optimized for desktop and mobile devices
+
+🔗 **Source Code:** [GitHub Repository](YOUR_TRAVEL_REPOSITORY_LINK)
+🔗 **Live Demo:** [View Website](YOUR_LIVE_DEMO_LINK)
+
+
+---
+
+### 🍽️ Restaurant Website
+
+A modern and responsive restaurant website featuring an engaging landing page, interactive UI components, and a visually appealing restaurant-focused design.
+
+**🛠️ Tech Stack**
+- HTML5
+- CSS3
+- JavaScript
+
+**✨ Key Features**
+- 🍽️ Modern restaurant UI
+- 📱 Responsive design
+- ⚡ Interactive JavaScript elements
+- 🎨 Modern visual layout
+- 🖱️ Smooth user interactions
+- 💻 Responsive across different screen sizes
+
+🔗 **Source Code:** [GitHub Repository](YOUR_RESTAURANT_REPOSITORY_LINK)
+🔗 **Live Demo:** [View Website](YOUR_LIVE_DEMO_LINK)
 # 🌐 Connect With Me
 
 <div align="center">
